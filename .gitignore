@@ -1,0 +1,6 @@
+*.conf*
+__pycache__/
+*.pyc
+*.sql*
+nohup*
+migrations/
