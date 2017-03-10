@@ -34,6 +34,8 @@ ALLOWED_HOSTS = parser.get('global', 'allowed_hosts').split()
 # Application definition
 
 INSTALLED_APPS = [
+    'cms_app',
+    'taggit',
     'ghoster',
     'django.contrib.admin',
     'django.contrib.auth',
