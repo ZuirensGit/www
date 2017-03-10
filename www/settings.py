@@ -34,6 +34,7 @@ ALLOWED_HOSTS = parser.get('global', 'allowed_hosts').split()
 # Application definition
 
 INSTALLED_APPS = [
+    'crawl_app',
     'cms_app',
     'taggit',
     'ghoster',

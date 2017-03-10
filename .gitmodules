@@ -1,0 +1,3 @@
+[submodule "crawl_app"]
+	path = crawl_app
+	url = https://github.com/ZuirensGit/crawl_app
