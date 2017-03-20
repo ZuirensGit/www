@@ -1,3 +1,6 @@
 [submodule "crawl_app"]
 	path = crawl_app
 	url = https://github.com/ZuirensGit/crawl_app
+[submodule "payment_app"]
+	path = payment_app
+	url = https://github.com/ZuirensGit/django-payit
